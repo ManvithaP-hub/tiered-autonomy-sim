@@ -19,7 +19,7 @@ Requires Python 3.9+ and no third-party packages.
 python experiments.py
 ```
 
-This reproduces every number in the paper (main comparison, matched-workload sweep, sensitivity to estimation noise, miscalibration and verification strength, and harm by category) and writes `results.json`.
+This runs all experiments (main comparison, matched-workload sweep, sensitivity to estimation noise, miscalibration and verification strength, and harm by category) and writes `results.json`.
 
 ## Important
 

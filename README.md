@@ -1,6 +1,6 @@
 # tiered-autonomy-sim
 
-A reproducible Monte Carlo simulation of **tiered, blast-radius-aware authority control** for self-healing CI/CD agents, accompanying the paper *Tiered Autonomy: Blast-Radius-Aware Authority Control for Self-Healing CI/CD Agents* (Potluri, 2026).
+A reproducible Monte Carlo simulation of **tiered, blast-radius-aware authority control** for self-healing CI/CD agents.
 
 Each remediation action is assigned one of four tiers based on its estimated blast radius:
 
